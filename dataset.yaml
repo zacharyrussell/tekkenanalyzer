@@ -1,0 +1,5 @@
+train: /content/drive/My Drive/input_dataset/train/images
+val: /content/drive/My Drive/input_dataset/val/images
+
+nc: 15  # number of classes
+names: ['d', 'df', 'f', 'uf', 'u', 'ub', 'b', 'db', '1', '2', '3', '4', '1+2', '3+4', '2+3']
